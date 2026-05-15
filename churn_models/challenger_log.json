@@ -1,0 +1,62 @@
+[
+  {
+    "decision": "REJECTED",
+    "reason": "Gates failed: F1 improvement +0.0000 < 0.005",
+    "evaluated_at": "2026-04-28 18:39:48",
+    "challenger_name": "AdaBoost",
+    "challenger_f1": 0.6188,
+    "challenger_roc_auc": 0.829,
+    "challenger_recall": 0.7527,
+    "challenger_gap": 0.0391,
+    "champion_name": "AdaBoost",
+    "champion_f1": 0.6188,
+    "champion_roc_auc": 0.829,
+    "champion_recall": 0.7527,
+    "gates": {
+      "f1_improvement_passed": false,
+      "roc_auc_passed": true,
+      "recall_passed": true,
+      "gap_passed": true
+    }
+  },
+  {
+    "decision": "PROMOTED",
+    "reason": "Challenger beats champion: F1 0.6188 \u2192 0.6340 (+0.0152)",
+    "evaluated_at": "2026-04-30 22:08:12",
+    "challenger_name": "CatBoost",
+    "challenger_f1": 0.634,
+    "challenger_roc_auc": 0.8388,
+    "challenger_recall": 0.7312,
+    "challenger_gap": 0.0664,
+    "champion_name": "AdaBoost",
+    "champion_f1": 0.6188,
+    "champion_roc_auc": 0.829,
+    "champion_recall": 0.7527,
+    "gates": {
+      "f1_improvement_passed": true,
+      "roc_auc_passed": true,
+      "recall_passed": true,
+      "gap_passed": true
+    }
+  },
+  {
+    "decision": "REJECTED",
+    "reason": "Gates failed: F1 improvement +0.0000 < 0.005",
+    "evaluated_at": "2026-05-14 14:28:20",
+    "challenger_name": "CatBoost",
+    "challenger_f1": 0.634,
+    "challenger_roc_auc": 0.8388,
+    "challenger_recall": 0.7312,
+    "challenger_gap": 0.0664,
+    "champion_name": "CatBoost",
+    "champion_f1": 0.634,
+    "champion_roc_auc": 0.8388,
+    "champion_recall": 0.7312,
+    "gates": {
+      "f1_improvement_passed": false,
+      "roc_auc_passed": true,
+      "recall_passed": true,
+      "gap_passed": true
+    }
+  }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.joblib
+*.pkl
+mlruns/
+.env
+logs/
+*.csv
+!requirements*.txt
+churn_models/*.joblib

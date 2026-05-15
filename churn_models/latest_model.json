@@ -1,0 +1,5 @@
+{
+  "model_name": "churn_model_CatBoost_v1.joblib",
+  "threshold": 0.2593,
+  "model_card_path": "churn_models\\model_card_CatBoost_v1.json"
+}
