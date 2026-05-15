@@ -54,13 +54,13 @@ most likely to leave — before they actually do.
 ## 🌐 Live Demo
 
 🚀 **Churn Prediction API (Live)**
-👉 [https://telco-churn-prediction-mlops.onrender.com](https://telco-churn-prediction-mlops.onrender.com)
+👉 [telco-churn-prediction-mlops.onrender.com](https://telco-churn-prediction-mlops.onrender.com)
 
 📊 **Monitoring Dashboard (Live)**
-👉 [https://YOUR-STREAMLIT-LINK.streamlit.app](https://telco-churn-prediction-mlops-mxf7uduov2gedvsyehtsbe.streamlit.app/)
+👉 [telco-churn-prediction-mlops.streamlit.app](https://telco-churn-prediction-mlops-mxf7uduov2gedvsyehtsbe.streamlit.app/)
 
 📄 **API Docs (Swagger UI)**
-👉 [https://telco-churn-prediction-mlops.onrender.com/docs](https://telco-churn-prediction-mlops.onrender.com/docs)
+👉 [telco-churn-prediction-mlops.onrender.com/docs](https://telco-churn-prediction-mlops.onrender.com/docs)
 
 ---
 
@@ -141,7 +141,7 @@ Real-time customer churn scoring + Champion vs Challenger + Revenue Impact Panel
 
 Churn probability histogram with risk band thresholds and RETAIN/OUTREACH/URGENT breakdown.
 
-![Distribution](docs/screenshots/churn_probability_and _action_distribution.png)
+![Distribution](docs/screenshots/churn_probability_and_action_distribution.png)
 
 ---
 
@@ -149,7 +149,7 @@ Churn probability histogram with risk band thresholds and RETAIN/OUTREACH/URGENT
 
 Estimated revenue at risk, revenue saved by model, retention ROI, and wasted campaign costs.
 
-![Revenue](docs/screenshots/churn_probability_stats_and revenue_impact.png)
+![Revenue](docs/screenshots/churn_probability_stats_and_revenue_impact.png)
 
 ---
 
