@@ -141,7 +141,7 @@ Real-time customer churn scoring + Champion vs Challenger + Revenue Impact Panel
 
 Churn probability histogram with risk band thresholds and RETAIN/OUTREACH/URGENT breakdown.
 
-![Distribution](docs/screenshots/churn_probability_and__action_distribution.png)
+![Distribution](docs/screenshots/churn_probability_and _action_distribution.png)
 
 ---
 
@@ -149,7 +149,7 @@ Churn probability histogram with risk band thresholds and RETAIN/OUTREACH/URGENT
 
 Estimated revenue at risk, revenue saved by model, retention ROI, and wasted campaign costs.
 
-![Revenue](docs/screenshots/churn_probability_stats_and_revenue_impact.png)
+![Revenue](docs/screenshots/churn_probability_stats_and revenue_impact.png)
 
 ---
 
@@ -173,7 +173,7 @@ Live prediction log.
 
 ## 🧪 Test Coverage — 41/41 Passing
 
-![Test Coverage](docs/screenshots/test_coverage.png)
+![Test Coverage](docs/reports/test_coverage.png)
 
 41 unit tests across 10 test classes:
 
