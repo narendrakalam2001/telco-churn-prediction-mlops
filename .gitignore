@@ -3,3 +3,5 @@ __pycache__/
 *.pkl
 mlruns/
 .env
+catboost_info/
+.coverage
