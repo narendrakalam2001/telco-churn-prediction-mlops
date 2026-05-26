@@ -515,7 +515,7 @@ telco-churn-prediction-mlops/
 │       ├── churn_probability_stats_and_revenue_impact.png
 │       ├── drift_report.png
 │       ├── feature_drift.png
-│       └── recent_predictionrecent_prediction.png
+│       └── recent_prediction.png
 │
 ├── Dockerfile                 ← API Docker image (multi-stage)
 ├── Dockerfile.dashboard       ← Streamlit Docker image
