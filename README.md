@@ -57,7 +57,7 @@ most likely to leave — before they actually do.
 👉 [telco-churn-prediction-mlops.onrender.com](https://telco-churn-prediction-mlops.onrender.com)
 
 📊 **Monitoring Dashboard (Live)**
-👉 [telco-churn-prediction-mlops.streamlit.app](https://telco-churn-prediction-mlops-mxf7uduov2gedvsyehtsbe.streamlit.app/)
+👉 [telco-churn-prediction-mlops.streamlit.app](https://telco-churn-prediction-mlops.streamlit.app)
 
 📄 **API Docs (Swagger UI)**
 👉 [telco-churn-prediction-mlops.onrender.com/docs](https://telco-churn-prediction-mlops.onrender.com/docs)
